@@ -1,1 +1,3 @@
-This is a website for food recipes.
+Website for food recipes
+
+This will allow users to look at food images and find the recipes to them
