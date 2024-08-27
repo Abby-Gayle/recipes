@@ -1,1 +1,10 @@
-
+h1, li{
+    list-style-type: square;
+    color: red;
+    padding: 5px;
+    margin: 5px
+}
+img{
+    height: auto;
+    width: 150px;
+}
